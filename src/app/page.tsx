@@ -8,7 +8,7 @@ import {
     ZkLoginSignInWithGoogleButton,
 } from "./_components"
 
-export const Page = () => {
+const Page = () => {
     return (
         <div className="w-screen h-screen">
             <div className="absolute w-full h-full flex justify-center">
